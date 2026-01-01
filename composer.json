@@ -1,19 +1,19 @@
 {
-  "name": "harpreet/default-pages",
-  "description": "Default static pages for Laravel websites",
-  "type": "library",
-  "autoload": {
-    "psr-4": {
-      "Harpreet\\DefaultPages\\": "src/"
-    }
-  },
-  "extra": {
-    "laravel": {
-      "providers": [
-        "Harpreet\\DefaultPages\\DefaultPagesServiceProvider"
-      ]
-    }
-  },
-  "minimum-stability": "dev",
-  "prefer-stable": true
+    "name": "harpreet/default-pages",
+    "description": "Default static pages for Laravel websites",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Harpreet\\DefaultPages\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Harpreet\\DefaultPages\\DefaultPagesServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
