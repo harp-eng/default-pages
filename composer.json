@@ -1,7 +1,7 @@
 {
     "name": "harpreet/default-pages",
     "description": "Default static pages for Laravel websites",
-    "type": "library",
+    "type": "library", 
     "autoload": {
         "psr-4": {
             "Harpreet\\DefaultPages\\": "src/"
